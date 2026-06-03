@@ -1,0 +1,16 @@
+[
+  {"business_name":"Ravi Steel & Electronics","industry":"Solar/Electronics","status":"Active"},
+  {"business_name":"Vineeta Pickles","industry":"Food/FMCG","status":"Active","phone":"8081077819"},
+  {"business_name":"Mannat Health Care Nursing Services & Elder Care","industry":"Healthcare","status":"Active","phone":"9565235923"},
+  {"business_name":"Ravi Kisan Kendra","industry":"Agriculture","status":"Active","phone":"9792987725"},
+  {"business_name":"ChefMitra","industry":"Food Service","status":"Active","phone":"7376255606"},
+  {"business_name":"FFC India Farm Fresh Chicken","industry":"Food Delivery","status":"Active"},
+  {"business_name":"Massiv Bites","industry":"Cloud Kitchen","status":"Active","phone":"9580548418"},
+  {"business_name":"IMM Business School","industry":"Education","status":"Active","phone":"9897955166"},
+  {"business_name":"Anandam Developers","industry":"Real Estate","status":"Active","phone":"9250479191"},
+  {"business_name":"Sentinel Realty Consultants Pvt. Ltd.","industry":"Real Estate","status":"Active"},
+  {"business_name":"Rajive Singh Real Estate","industry":"Real Estate","status":"Active","phone":"9958552040"},
+  {"business_name":"Basundhara Agro Food","industry":"Agro Food","status":"Active"},
+  {"business_name":"Raj Mehndi Artist Lucknow","industry":"Beauty/Events","status":"Active"},
+  {"business_name":"Inkspire Graphics","industry":"Creative Agency","status":"Active"}
+]

@@ -1,0 +1,2 @@
+import { Sidebar } from '@/components/Sidebar';
+export default function Page(){ return <main className="flex"><Sidebar/><section className="flex-1 p-8"><h1 className="mb-6 text-3xl font-bold">Tasks</h1><div className="card"><p className="text-white/70">Editable tasks module. Connect this page with Supabase tables and Excel import/export functions.</p><button className="btn mt-4">Add New</button></div></section></main> }

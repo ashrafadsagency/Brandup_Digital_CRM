@@ -1,0 +1,3 @@
+import { Sidebar } from '@/components/Sidebar';
+import { DashboardCard } from '@/components/DashboardCard';
+export default function Dashboard(){ return <main className="flex"><Sidebar/><section className="flex-1 p-8"><h1 className="mb-6 text-3xl font-bold">Dashboard</h1><div className="grid gap-5 md:grid-cols-4"><DashboardCard title="Total Clients" value="14"/><DashboardCard title="Active Clients" value="14"/><DashboardCard title="Pending Payments" value="0"/><DashboardCard title="Follow Ups Today" value="0"/></div><div className="card mt-6"><h2 className="text-xl font-semibold">Today Overview</h2><p className="mt-2 text-white/70">Track clients, payments, tasks, follow-ups and reports from one dashboard.</p></div></section></main> }

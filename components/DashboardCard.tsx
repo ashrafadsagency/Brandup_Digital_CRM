@@ -1,0 +1,1 @@
+export function DashboardCard({title,value}:{title:string;value:string|number}){ return <div className="card"><p className="text-sm text-white/60">{title}</p><h2 className="mt-2 text-3xl font-bold">{value}</h2></div> }
