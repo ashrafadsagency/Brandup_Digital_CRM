@@ -12,6 +12,7 @@
     "@hookform/resolvers": "latest",
     "@supabase/supabase-js": "latest",
     "@tanstack/react-query": "latest",
+    "@vercel/analytics": "^2.0.1",
     "clsx": "latest",
     "exceljs": "latest",
     "framer-motion": "latest",
